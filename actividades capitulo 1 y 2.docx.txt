@@ -95,6 +95,9 @@ La tarjeta de interfaz de red (NIC) es un complemento hardware que se utiliza pa
 
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología? 
 6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+
+Estructura de datos usada para transferir información entre diferentes dispositivos. Una PDU contiene información de control y de usuario, incluyendo encabezados y datos de la capa de aplicación, capa de transporte, capa de red, capa de enlace de datos y capa física.
+
 7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
 8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
 9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
