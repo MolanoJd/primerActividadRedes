@@ -100,6 +100,10 @@ Estructura de datos usada para transferir información entre diferentes disposit
 
 7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
 8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+
+Los protocolos se centran en la parte técnica, limitada y específica a cierto número de dispositivos, como se protege el mensaje, como se transporta, como se pide al usuario, como los datos deben ser tratados en cada una de las fases de cada una de las capas, capas propuestas por los modelos, un modelo se centra en las generalidades de la comunicación y son un estándar mucho más amplio, aquí se nos da las explicaciones de cómo  las capas trabajan en los datos compartidos.
+
+
 9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
 
 
