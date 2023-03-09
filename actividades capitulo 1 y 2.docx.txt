@@ -47,6 +47,17 @@ Este ítem ya no tiene que ver con nuestro campo de estudio, se relaciona con pr
 
 5. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
 6. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
+
+Los datos se definen como información obtenida de hechos u opiniones  que se obtienen de diversas fuentes, recopilan y se almacenan con el fin de que  pueda ser procesada y utilizada para tomar decisiones, al transmutar este concepto al campo de estudio de las redes las fuentes serían dispositivos.
+
+
+ Los datos se dividen en paquetes y se envían a través de la red utilizando diferentes protocolos de red.
+
+Cuando se habla de  red de datos  se hace referencia a un conjunto de nodos (Computadores) que haciendo uso de las telecomunicaciones que permite intercambiar datos. En las redes de cómputo, dispositivos de computación conectados en red (nodos de la red) pasan los datos entre sí a lo largo de las conexiones de datos.
+ 
+Cuando la comunicación combina múltiples tipos de datos, como voz, video y datos, en una única red le llamamos red de convergencia. La convergencia se refiere al hecho de que estos diferentes tipos de tráfico se unen y se entregan de manera eficiente y efectiva a través de la misma red.
+
+
 7. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos. 
 8. Investigar qué son las redes orientadas y no orientadas a la conexión.
 9. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
