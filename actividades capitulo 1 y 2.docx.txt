@@ -60,6 +60,12 @@ Cuando la comunicación combina múltiples tipos de datos, como voz, video y dat
 
 7. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos. 
 8. Investigar qué son las redes orientadas y no orientadas a la conexión.
+
+Red orientada a la conexión: Son los dispositivos establecen una conexión dedicada, generalmente se refiere a una conexión de banda ancha que se utiliza para conectarse a Internet a través de un proveedor de servicios de Internet (ISP), antes de que se pueda transmitir información. La conexión se mantiene durante la transmisión de datos y se libera una vez que se completa la transferencia de datos. Un ejemplo se da cuando en las llamadas establece una conexión entre dos dispositivos antes de que se pueda realizar una llamada telefónica.
+
+Las redes no orientadas: Se refieren a redes de comunicación en las que los datos enviados tienen un orden establecido o alguna jerarquía, es decir que  no están organizados en un flujo de comunicación definido, es decir, no se establece una conexión previa y no se garantiza que los paquetes de datos lleguen en un orden específico.
+
+
 9. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
 10. ¿Por qué importa la calidad del servicio en una red de datos? 
 
