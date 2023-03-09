@@ -15,6 +15,13 @@ CÓDIGO SIMCA:
 
 Preguntas de lectura: Capítulo 1
 1. Describir el efecto que tienen las redes en nuestra vida cotidiana.
+
+La comunicación en la vida cotidiana de los seres humanos es un aspecto importante, pues somos individuos sociales, es
+por ello que los métodos que utilizamos van en constante evolución. La evolución de las redes ha proporcionado alternativas
+a la comunicación cara a cara dándonos como resultados desde la prensa hasta el internet, pasando por la televisión.
+Al estar en constante cambio pasamos de redes capaces de mandar simple información a poder agregar voz y vídeo entre diferentes
+dispositivos.
+
 2. Listar las actividades cotidianas que realiza usted utilizando internet
 3. Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado
 4. Describir los factores que afectan la calidad de las comunicaciones.
