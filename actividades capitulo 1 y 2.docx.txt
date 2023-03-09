@@ -118,23 +118,41 @@ La calidad de un producto o servicio a niveles generales afectan 2 aspectos muy 
 
 
 Preguntas de lectura: Capítulo 2
-1. Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas. 
+1. Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas.
+
+La estructura de una red consiste en origen del mensaje, seguido de un codificador que gracias a unas reglas convierte la información
+en bits para su envió junto con un transmisor, luego de eso pasa por el medio o “canal” el cual es común entre el origen y el destino, después
+pasa por el receptor y el decodificador para cambiar los bits en un formato que pueda comprender el usuario hasta el destinatario.
+
 2. Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
 
 Anteriormente ya definimos lo que es la red, conjunto de dispositivos conectados entre sí con el fin de compartir cualquier tipo de información, al hablar de dispositivos se incluyen una gran cantidad y variedad de dispositivos, computadores, impresoras, celulares, etc, partiendo de esa variedad la red se divide en varios subtipos, cuando se habla de redes LAN y WAN se relaciona directamente con las zonas geográficas, LAN (Local Area Network) es una red de computadoras que cubre un área geográfica pequeña, como una oficina, un edificio o un campus universitario, al contrario de WAN (Wide Area Network) es una red de computadoras que cubre un área geográfica amplia, como una ciudad, un país o incluso el mundo. 
  Un internetwork es una red formada por la interconexión de varias redes. Por ejemplo,al interconectar redes las LAN mediante una WAN obtendremos una red internetwork permiten compartir recursos y comunicarse entre sí de manera eficiente, y si unimos redes internetwork, tanto públicas como privadas, y aplicamos algún protocolo en su mayoría tcp/ip surge el concepto de Internet.
 
 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+
+La internetwork es una malla global de redes utilizadas por organizaciones públicas
+o privadas y están reservadas para su uso exclusivo. Por otro lado, el internet es una
+de las mallas del internetwork publica utilizada ampliamente por el público.
+
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
 
 La tarjeta de interfaz de red (NIC) es un complemento hardware que se utiliza para conectarse a una red. El puerto físico es el lugar físico en un dispositivo de red donde se conecta el cable de red. Por último, la interfaz de red es el software que se utiliza para configurar y administrar la conexión de red del dispositivo.
 
-5. ¿Por qué se dice que un protocolo es independiente de la tecnología? 
+5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
+
+Se dice que los protocolos son independientes de la tecnología pues es la tecnología quien debe adaptarse a los protocolos.
+Gracias a que los protocolos están estandarizados es posible que diferentes tipos de dispositivos puedan comunicarse entre
+sí, pues son los encargados de especificar la funcionalidad y no la tecnología para admitir la misma.
+
 6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
 
 Estructura de datos usada para transferir información entre diferentes dispositivos. Una PDU contiene información de control y de usuario, incluyendo encabezados y datos de la capa de aplicación, capa de transporte, capa de red, capa de enlace de datos y capa física.
 
 7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+
+
+
 8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
 
 Los protocolos se centran en la parte técnica, limitada y específica a cierto número de dispositivos, como se protege el mensaje, como se transporta, como se pide al usuario, como los datos deben ser tratados en cada una de las fases de cada una de las capas, capas propuestas por los modelos, un modelo se centra en las generalidades de la comunicación y son un estándar mucho más amplio, aquí se nos da las explicaciones de cómo  las capas trabajan en los datos compartidos.
@@ -142,8 +160,20 @@ Los protocolos se centran en la parte técnica, limitada y específica a cierto 
 
 9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
 
+	Modelo TCP/IP:
+	* Aplicación: Son los medios que utiliza el usuario para ingresar información y representa datos.
+	* Transporte: Es el encargado de permitir la comunicación entre dispositivos.
+	* Internet: Encargado de determinar la ruta más eficiente para la comunicación.
+	* Acceso a la red: Es quien controla los dispositivos hardware que conforman la red.
 
-
+	Modelo OSI:
+	* Aplicación: Es la capa encargada de proporcionar los medios para la comunicación entre usuarios.
+	* Presentación: Proporciona una vista de los datos de manera estandarizada.
+	* Sesión: Se encarga de prestar los servicios a la capa de presentación y poder organizar el intercambio de datos.
+	* Transporte: La capa de transporte es la encargada de definir los servicios a tratar para la transferencia de datos entre dispositivos finales.
+	* Red: Proporciona servicios para la transferencia de datos por la red entre dispositivos.
+	* Enlace de datos: Se encargan de describir métodos para lograr el intercambio entre un medio en común.
+	* Física: Se refiere a todos los componentes físicos o mecánicos utilizados para la transmisión de bits de un punto A a un punto B.
 
 
 
