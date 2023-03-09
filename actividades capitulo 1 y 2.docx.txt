@@ -27,6 +27,24 @@ Cuando se habla de proyectos y modelos, se da inicio a una nueva actividad, trab
 
 3. Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado
 4. Describir los factores que afectan la calidad de las comunicaciones.
+
+Omitiendo las limitaciones dadas por nuestra naturaleza humana vamos a mostrar las limitaciones presentes en las redes, existen 2 grandes tipos de limitantes, externos e internos.
+
+Factores Externos:
+
+		Descontextualización de nuestra comunicación, escoger un tipo de transporte físico inadecuado, escoger protocolos que no tengan la efectividad adecuada o dispositivos de llegada no aptos para manejar el mensaje que se envía pueden  afectar la calidad de la ruta entre el emisor y el receptor.
+De forma más específica podemos decir que distancias largas y mal escogencia del protocolo aumenta la cantidad de veces que el mensaje tiene que cambiar la forma este fenómeno tiene una relación directamente proporcional al número de veces va a ser redireccionado o redirigido, al presentarse las afectaciones el cálculo de la cantidad de tiempo asignado para una comunicación exitosa ya no será correcto.
+
+
+Factores Internos:
+
+Este ítem ya no tiene que ver con nuestro campo de estudio, se relaciona con problemas de comunicación y entendimiento del usuario, a continuación se muestran algunos ejemplos:
+
+• el tamaño del mensaje,
+• la complejidad del mensaje, y
+• la importancia del mensaje.
+
+
 5. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
 6. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
 7. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos. 
