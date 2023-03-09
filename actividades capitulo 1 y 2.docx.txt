@@ -69,6 +69,9 @@ Las redes no orientadas: Se refieren a redes de comunicación en las que los dat
 9. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
 10. ¿Por qué importa la calidad del servicio en una red de datos? 
 
+La calidad de un producto o servicio a niveles generales afectan 2 aspectos muy importantes:
+ Una red de datos de baja calidad también puede ser vulnerable a ataques, La seguridad se verá comprometida. Si la red no puede manejar grandes cantidades de tráfico o si la velocidad de la conexión es demasiado lenta, una gran cantidad de vulnerabilidades estarán expuestas lo que facilita acceder a la red y robar información, además una conexión lenta o inestable puede hacer que las tareas en línea sean más lentas y difíciles de realizar, lo que puede disminuir la productividad, al tener estas 2 limitantes al final de todo el proceso que estamos ofreciendo no tendrá una Experiencia del usuario adecuada.
+
 
 
 
