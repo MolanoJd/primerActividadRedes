@@ -16,6 +16,15 @@ CÓDIGO SIMCA:
 Preguntas de lectura: Capítulo 1
 1. Describir el efecto que tienen las redes en nuestra vida cotidiana.
 2. Listar las actividades cotidianas que realiza usted utilizando internet
+
+Las redes como campo de estudio tiene una naturaleza militar, dicha naturaleza con el tiempo ha sufrido grandes modificaciones, sin embargo hay muchas tareas que desde su inicio hasta la actualidad siguen vigentes, la principal actividad cotidiana y revolucionaria es la comunicación, pasó de ser un privilegio y/o una estrategia social,militar y política a ser una tarea tan sencilla que no es necesario tener un mínimo de conocimiento en este campo de estudio para hacer uso de ella.
+
+Con los grandes avances tecnológicos las redes han adquirido nuevas capacidades, capacidades que hace unos años pareciera ciencia ficción, pasamos de tener una comunicación limitada por una pequeña serie de caracteres a compartir cualquier tipo de información; videos, imágenes, audio, proyectos, modelos, etc, si nos centramos en compartir información multimedia surge una nueva actividad, el entretenimiento.
+
+
+Cuando se habla de proyectos y modelos, se da inicio a una nueva actividad, trabajo remoto.
+
+
 3. Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado
 4. Describir los factores que afectan la calidad de las comunicaciones.
 5. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
