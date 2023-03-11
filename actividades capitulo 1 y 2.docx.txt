@@ -153,6 +153,14 @@ Estructura de datos usada para transferir información entre diferentes disposit
 
 7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
 
+Los protocolos en las comunicaciones se implementan en los dispositivos finales para la entrega de aplicaciones. El proceso comienza en la creación de los datos a enviar en el nivel de aplicación, seguidamente ocurre la
+segmentación y encapsulación de los datos, en el tercer paso se generan los datos sobre el medio que pertenece a la capa de acceso a la red; Pasando al punto 4 se transportan los datos por el interwork, utilizando los medios
+disponibles; el paso siguiente es la recepción de los datos en la capa de acceso a datos; como penúltimo paso se desencapsulan y se rearman los datos al entrar al dispositivo final; por último se traspasan los datos a la aplicación
+de destino en el dispositivo de destino.
+
+El proceso de encapsulamiento se utiliza para agregar diferentes tipos de información a los datos originales cada vez que pasa por una capa del protocolo. Estos datos extras son llamados Unidad de datos del protocolo o abreviado PDU.
+Ya que estos datos no tienen un nombre específico para cada uno de ellos el curso los denomina como datos, para la capa de aplicación; segmento, para la capa de transporte; paquete, para la capa de internetwork; trama para la capa de
+acceso a la red y bits para la los datos transmitidos físicamente por el medio
 
 
 8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
