@@ -10,6 +10,10 @@ NOMBRE: Juan Diego Molano Molano
 
 CÓDIGO SIMCA: 104619011214
 
+NOMBRE: Sebastian Collazos Velasco
+
+CÓDIGO SIMCA: 104618021467
+
 
 1. Leer los capítulos 1 y 2 del curso de Cisco.
 2. Responder las preguntas de la lectura y enviarlas en PDF.
